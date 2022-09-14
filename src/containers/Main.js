@@ -54,8 +54,8 @@ const Main = () => {
             <Greeting />
             <Skills />
             <StackProgress />
-            <Education />
             <WorkExperience />
+            <Education />
             <Projects />
             <StartupProject />
             <Achievement />
@@ -63,7 +63,7 @@ const Main = () => {
             <Talks />
             <Twitter />
             <Podcast />
-            <Profile />
+            {/* <Profile /> */}
             <Footer />
             <ScrollToTopButton />
           </>
